@@ -1,0 +1,57 @@
+name: nutrilife
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^1.1.0
+  fl_chart: ^0.68.0
+  intl: ^0.19.0  # Gunakan versi terbaru
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/history_icon.png
+    - assets/images/meal_plan_icon.png
+    - assets/images/reminder_icon.png
+    - assets/images/onboarding_meal_plan.jpg
+    - assets/images/onboarding_exercise.jpg
+    - assets/images/onboarding_explore.jpg
+    - assets/images/search_icon.png
+    - assets/images/home_icon.png
+    - assets/images/push_up_image.jpg
+    - assets/images/steps_image.jpg
+    - assets/images/muscle_exercise_image1.jpg
+    - assets/images/muscle_exercise_image2.jpg
+    - assets/images/profile_picture.jpg
+    - assets/images/healthy_food.jpg
+    - assets/images/workout_illustration.png
+    - assets/images/calorie_icon.png
+    - assets/images/fat_icon.png
+    - assets/images/heart_icon.png
+    - assets/images/sleep_icon.png
+    - assets/images/salad_image.jpg
+    - assets/images/avocado_dish.jpg
+    - assets/images/pancakes_image.jpg
+    - assets/images/pineapple_slice.jpg
+    - assets/images/exercise_background.jpg
+    - assets/images/exercise_icon.png
+    - assets/images/loncat_bintang.jpg
+    - assets/images/crunch_perut.jpg
+    - assets/images/putar_rusia.jpg
+    - assets/images/pendorong_dinding.jpg
+    - assets/images/sentuh_tumit.jpg
